@@ -15,7 +15,7 @@ O projeto permite registrar, consultar e acompanhar informações relacionadas �
 ## Demonstração
 
 🌐 **Sistema disponível online:**
-http://valvecontrol.wuaze.com/
+https://valvecontrol.wuaze.com/
 
 > **Observação:** A versão online utiliza dados fictícios e uma base de dados independente, criada exclusivamente para demonstração do projeto.
 
